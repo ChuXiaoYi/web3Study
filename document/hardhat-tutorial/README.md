@@ -13,8 +13,15 @@ Hardhat Runner 是围绕***tasks***和***plugins***的概念设计的。每次�
 
 # 官方文档中文教程
 
+<aside>
+❗ 该部分文档仅作为我学习过程中对官网的整理：包括个人理解和翻译，如有问题，请您指出，我会积极改正～
+
+</aside>
+
 [安装](Hardhat%20ccdd199158664a8e8dbbc26ca7bf53bb/%E5%AE%89%E8%A3%85%20d0ffd3dd1aef40a998ed5c300e7ebe2f.md)
 
 [Quick Start](Hardhat%20ccdd199158664a8e8dbbc26ca7bf53bb/Quick%20Start%200e8a5cf646b9448ba31f664e4c0aeb81.md)
 
 [配置](Hardhat%20ccdd199158664a8e8dbbc26ca7bf53bb/%E9%85%8D%E7%BD%AE%20509445dbc74b443e8af4d3b773694ea7.md)
+
+[基础知识](Hardhat%20ccdd199158664a8e8dbbc26ca7bf53bb/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%206729c8b6340644b6acc7fa94397a698a.md)

@@ -1,5 +1,10 @@
 # Quick Start
 
+<aside>
+💡 教程来自官网，文章末尾附上git地址
+
+</aside>
+
 ## 创建项目
 
 在您的项目文件夹中运行`yarn hardhat`:
@@ -74,3 +79,5 @@ yarn hardhat run scripts/deploy.ts --network localhost
 </aside>
 
 🎉恭喜！您已经创建了一个项目并编译、测试和部署了一个智能合约。
+
+[web3Study/hardhat-tutorial/hh-tt-01 at main · ChuXiaoYi/web3Study](https://github.com/ChuXiaoYi/web3Study/tree/main/hardhat-tutorial/hh-tt-01)
