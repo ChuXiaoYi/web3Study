@@ -1,6 +1,8 @@
 # web3Study
 
 # hardhat教程
+- 代码：[hardhat-tutorial](./hardhat-tutorial/)
+- 文档：[hardhat文档](./document/hardhat-tutorial/)
 
 # 代码文件目录
 
