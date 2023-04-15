@@ -11,4 +11,4 @@ const Section = ({ title, items, togglePop }) => {
     );
 }
 
-export default Section;
+export default Section; 
